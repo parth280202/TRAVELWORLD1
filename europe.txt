@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1 style="color:red" align="center" size="80px"><strong>EUROPE</strong></h1>
+</head>
+<body>
+<video width="320" height="240" controls>
+  <source src="Europe1.mp4" type="video/mp4">
+  <source src=" Europe.mp4" type="video/mp4">
+</video>
+</body>
+</html>
